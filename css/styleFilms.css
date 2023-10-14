@@ -229,6 +229,10 @@ body {
 	width: 0;
 }
 
+.genres__gallery::-webkit-scrollbar-thumb{
+	width: 0;
+}
+
 .genres__block {
 	cursor: pointer;
 	margin-right: 20px;
