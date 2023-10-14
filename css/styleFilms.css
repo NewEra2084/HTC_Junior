@@ -219,14 +219,17 @@ body {
 }
 
 .genres__gallery {
-	height: 208px;
+	height: 210px;
 	display: flex;
 	flex-wrap: wrap;
 	overflow-y: scroll;
 }
 
+.genres__gallery::-webkit-scrollbar{
+	width: 0;
+}
+
 .genres__block {
-	
 	cursor: pointer;
 	margin-right: 20px;
 	width: 280px;
