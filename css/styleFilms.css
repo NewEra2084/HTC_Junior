@@ -221,24 +221,8 @@ body {
 .genres__gallery {
 	height: 210px;
 	display: flex;
-	flex-wrap: wrap;
-	overflow-y: scroll;
 }
 
-.genres__gallery::-webkit-scrollbar{
-	width: 0;
-}
-
-.genres__gallery::-webkit-scrollbar-thumb{
-	width: 0;
-}
-
-.genres__gallery::-webkit-scrollbar-corner{
-	width: 0;
-}
-.genres__gallery::-webkit-scrollbar-track{
-	width: 0;
-}
 .genres__block {
 	cursor: pointer;
 	margin-right: 20px;
@@ -379,6 +363,8 @@ body {
 		margin-right: 0;
 		display: flex;
 		justify-content: center;
+		overflow-y: scroll;
+		flex-wrap: wrap;
 	}
 
 	.genres__gallery::-webkit-scrollbar{
