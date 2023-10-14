@@ -233,6 +233,12 @@ body {
 	width: 0;
 }
 
+.genres__gallery::-webkit-scrollbar-corner{
+	width: 0;
+}
+.genres__gallery::-webkit-scrollbar-track{
+	width: 0;
+}
 .genres__block {
 	cursor: pointer;
 	margin-right: 20px;
