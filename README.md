@@ -1,4 +1,4 @@
-# <p align=center>HTC_Junior</p>
+# <h1 align=center>HTC_Junior</h1>
  Study project making HTC_junior task<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"><br>
  
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
