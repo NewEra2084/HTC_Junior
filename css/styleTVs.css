@@ -71,7 +71,7 @@ body {
 }
 
 .header__login {
-	max-width: 113px;
+	width: 113px;
 	height: 38px;
 	border: none;
 	border-radius: 4px;
